@@ -1,0 +1,10 @@
+E:\Drive\Portfolio\C#\CostAlgorithm\CostAlgorithm\bin\Debug\CostAlgorithm.exe.config
+E:\Drive\Portfolio\C#\CostAlgorithm\CostAlgorithm\bin\Debug\CostAlgorithm.exe
+E:\Drive\Portfolio\C#\CostAlgorithm\CostAlgorithm\bin\Debug\CostAlgorithm.pdb
+E:\Drive\Portfolio\C#\CostAlgorithm\CostAlgorithm\obj\Debug\CostAlgorithm.Form1.resources
+E:\Drive\Portfolio\C#\CostAlgorithm\CostAlgorithm\obj\Debug\CostAlgorithm.Properties.Resources.resources
+E:\Drive\Portfolio\C#\CostAlgorithm\CostAlgorithm\obj\Debug\CostAlgorithm.csproj.GenerateResource.cache
+E:\Drive\Portfolio\C#\CostAlgorithm\CostAlgorithm\obj\Debug\CostAlgorithm.csproj.CoreCompileInputs.cache
+E:\Drive\Portfolio\C#\CostAlgorithm\CostAlgorithm\obj\Debug\CostAlgorithm.exe
+E:\Drive\Portfolio\C#\CostAlgorithm\CostAlgorithm\obj\Debug\CostAlgorithm.pdb
+E:\Drive\Portfolio\C#\CostAlgorithm\CostAlgorithm\obj\Debug\CostAlgorithm.csprojAssemblyReference.cache
